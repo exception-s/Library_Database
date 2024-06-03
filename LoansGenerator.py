@@ -19,7 +19,7 @@ fake = Faker()
 conn = psycopg2.connect(
     dbname="dbstud",
     user="itmo408321_2024",
-    password="itmo408321",
+    password="************",
     host="146.185.211.205",
     port="5432"
 )
